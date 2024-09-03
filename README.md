@@ -9,6 +9,6 @@ Create a simple game Space Invader. Please help and support so that I can be eve
 That is all and thank you.
 
 
-### Flappy Ball Game Review
+### Space Invader Game Review
 ![preview1](previewSpaceInvader.png)
 ![preview1](previewSpaceInvader2.png)
